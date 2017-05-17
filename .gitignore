@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+platforms/
+plugins/
